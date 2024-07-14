@@ -1,0 +1,22 @@
+<resources>
+
+        <string name="app_name">TugasHero</string>
+        <string name="superhero_name">Nama Superhero</string>
+        <string name="biodata_label">Biodata</string>
+        <string name="powerstats_label">Power Stats</string>
+        <string name="full_name">Full Name</string>
+        <string name="place_of_birth">Place of Birth</string>
+        <string name="first_appearance">First Appearance</string>
+        <string name="publisher">Publisher</string>
+        <string name="alignment">Alignment</string>
+        <string name="intelligence">Intelligence</string>
+        <string name="strength">Strength</string>
+        <string name="speed">Speed</string>
+        <string name="durability">Durability</string>
+        <string name="power">Power</string>
+        <string name="combat">Combat</string>
+        <string name="failed_retrieve_data">Failed to retrieve data</string>
+        <string name="hero_image">Hero Image</string>
+
+
+</resources>
